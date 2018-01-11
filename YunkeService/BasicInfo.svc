@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="TOPSUN.YunkeService.BasicInfo" CodeBehind="BasicInfo.svc.cs" %>
